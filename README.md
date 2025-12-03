@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Kentarohakase/Kentarohakase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kentaro/Florian, an C#/.NET enthusiast based in Vienna (AT)
 
-Here are some ideas to get you started:
+## 👤 Who am I?
+Someone who enjoys learning new technologies based on C# and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What am I currently working on?
+Learning more about C#, .NET and software architecture while building small side projects.
+
+## 🛠 Tools I use
+- C# / .NET  
+- Visual Studio / Code  
+- Git & GitHub  
+
+## 📫 How to reach me
+Check out my repositories or connect with me here on GitHub.
