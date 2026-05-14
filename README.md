@@ -12,5 +12,5 @@ Learning more about C#, .NET and software architecture while building small side
 - C# / .NET  
 - Visual Studio / Code  
 - Git & GitHub
-- HTML / CSS /JS
+- HTML / CSS / JS
 - sometimes Powershell
